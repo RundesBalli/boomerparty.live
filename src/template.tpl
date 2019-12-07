@@ -18,16 +18,12 @@
     <meta property="og:url" content="https://boomerparty.live">
   </head>
   <body>
-    <div id="bgimg" style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3 )), url('{BGIMG}');"></div>
-    <div id="header">
-      <a href="/"><img src="/src/header.png" alt="Boomerparty"></a>
-    </div>
-    <div id="wrapper">
+    <div id="bgimg" style="background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3 )), url('/{BGIMG}');"></div>
+    <div id="wrapper{WRAPPERBG}">
       {CONTENT}
     </div>
-    <div id="filler"></div>
     <div id="footer">
-      <a href="/imprint">Imprint</a> - <a href='https://pixabay.com' target='_blank'>Bilder von pixabay.com</a>
+      <a href="/imprint" target="_blank">Imprint</a> - <a href='https://pixabay.com' target='_blank'>Bilder von pixabay.com</a>
     </div>
   </body>
 </html>

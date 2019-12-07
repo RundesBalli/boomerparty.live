@@ -56,5 +56,5 @@ $bgimg = $bgfiles[array_rand($bgfiles)];
  */
 $templatefile = __DIR__.DIRECTORY_SEPARATOR."src".DIRECTORY_SEPARATOR."template.tpl";
 $fp = fopen($templatefile, "r");
-echo preg_replace(array("/{CONTENT}/im", "/{BGIMG}/im"), array($content, $bgimg), fread($fp, filesize($templatefile)));
+echo preg_replace(array("/{CONTENT}/im", "/{BGIMG}/im", "/{WRAPPERBG}/im"), array($content, $bgimg, (isset($wrapperbg) ? 'bg' : '')), fread($fp, filesize($templatefile)));
 ?>

@@ -4,6 +4,9 @@
  * 
  * Impressum / Anbieterkennzeichnung
  */
+
+$wrapperbg = 1;
+
 $content.= "<h1>Anbieterkennzeichnung</h1>".PHP_EOL;
 $content.= "<p>Kein kommerzieller Internetauftritt und demnach gemäß <a href='https://dejure.org/gesetze/TMG/5.html' target='_blank' rel='noopener'>§5 TMG</a> und <a href='http://www.urheberrecht.org/law/normen/rstv/RStV-13/text/2010_06.php' target='_blank'>§55 Abs. 2 RStV</a> nicht impressumspflichtig.</p>".PHP_EOL.
 "<p>Kontaktmöglichkeiten: <a href='mailto:contact@boomerparty.live' target='_blank'>Mail</a></p>".PHP_EOL;
@@ -34,6 +37,4 @@ $content.= "<p>".PHP_EOL.
 "Haftungsausschluss von <a href='http://www.mustervorlage.net/disclaimer-muster' target='_blank' rel='noopener'>mustervorlage.net</a>".PHP_EOL.
 "</p>".PHP_EOL;
 $content.= "</div>".PHP_EOL;;
-
-$content.= "<div class='spacer'></div>".PHP_EOL;
 ?>
