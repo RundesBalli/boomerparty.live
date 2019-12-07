@@ -1,2 +1,2 @@
-# boomerparty.live
-Boomerparty.live Webseite für meinen Freund @KaiserMolay
+# :sound: :musical_note: boomerparty.live
+[boomerparty.live](https://boomerparty.live) Webseite für meinen Freund @KaiserMolay
