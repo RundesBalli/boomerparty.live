@@ -71,6 +71,20 @@ a:active, a:hover, a:focus {
   background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7));
 }
 
+@media only screen and (max-width: 650px) {
+  #wrapperbg {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    font-size: 10px;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7));
+  }
+
+  #footer {
+    position: fixed;
+  }
+}
+
 .spacer {
   height: 30px;
 }
