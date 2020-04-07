@@ -23,7 +23,7 @@
       {CONTENT}
     </div>
     <div id="footer">
-      <a href="/imprint" target="_blank">Imprint</a> - <a href='https://pixabay.com' target='_blank'>Bilder von pixabay.com</a>
+      <a href="/imprint" target="_blank">Imprint</a> - <a href="https://github.com/RundesBalli/boomerparty.live" target="_blank" rel="noopener">GitHub</a> - <a href="https://pixabay.com" target="_blank" rel="noopener">Bilder von pixabay.com</a>
     </div>
   </body>
 </html>
