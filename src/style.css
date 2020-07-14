@@ -50,6 +50,11 @@ a:active, a:hover, a:focus {
   right: 5px;
   bottom: 5px;
   font-size: 10px;
+  color: #f2f5f4;
+}
+
+#footer > a {
+  color: #f2f5f4;
 }
 
 #wrapper {
