@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Verlinkung zur Boomerparty Playlist"/>
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Boomerparty, Boomer, Party, Playlist, Playliste, Spotify"/>
+    <meta name="keywords" content="Boomerparty, Boomer, Party, Playlist, Playliste, Spotify, Musik, Boomer music, Boomermusic, music, party music, 30yo Boomer, Boomer Meme"/>
     <meta name="author" content="Boomerparty"/>
     <meta name="revisit-after" content="3 days"/>
     <link href="/src/style.css" rel="stylesheet">
